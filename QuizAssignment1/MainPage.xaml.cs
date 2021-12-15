@@ -1,4 +1,6 @@
-﻿using Xamarin.Forms;
+﻿using System;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui.Essentials;
 
 namespace QuizAssignment1
 {
